@@ -5,7 +5,7 @@ let voice = document.querySelector("#voice");
 let audio; // For playing music
 
 document.addEventListener("DOMContentLoaded", function () {
-    const text = "I am Areeba";
+    const text = "JARVIS";
     const typewriter = document.getElementById("typewriter-text");
 
     let index = 0;
